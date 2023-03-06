@@ -1,0 +1,16 @@
+package main
+
+import "fmt"
+
+func main() {
+	fmt.Println("My name is A-H NARUTO.")
+	fmt.Println("I'm a noob bug hunter in this planet.")
+
+	fmt.Println("We're perform penetration in bug bounty program.")
+	fmt.Println("Our work is find bug on website.")
+
+	fmt.Println("Name \t    Age Class  \t    Skill")
+	fmt.Println("A-H NARUTO  16  9-commerce  Bug hunter")
+
+	fmt.Println("A-H\\NARUTO and \"A-H NARUTO\"")
+}
