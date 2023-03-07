@@ -1,15 +1,15 @@
 package main
 
 func main() {
-	var myName, country string
-	var age int
-	var pscResult int
-
+	var myName, country string = "A-H NARUTO", "Bangladesh"
+	var age int = 16
+	var pscResult float32 = 5.0
+/*
 	myName = "A-H NARUTO"
 	country = "Bangladesh"
 	age = 16
 	pscResult = 5
-
+*/
 	println("Hello,", myName, "is crazy.")
 	println("My country is", country)
 	println("My age is", age)
